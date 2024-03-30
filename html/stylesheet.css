@@ -8,12 +8,12 @@
 
 @font-face {
     font-family: 'besley';
-    src: url('../font/besley-variablefont_wght-webfont.eot');
-    src: url('../font/besley-variablefont_wght-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../font/besley-variablefont_wght-webfont.woff2') format('woff2'),
-         url('../font/besley-variablefont_wght-webfont.woff') format('woff'),
-         url('../font/besley-variablefont_wght-webfont.ttf') format('truetype'),
-         url('../font/besley-variablefont_wght-webfont.svg#besleyregular') format('svg');
+    src: url('./font/besley-variablefont_wght-webfont.eot');
+    src: url('./font/besley-variablefont_wght-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./font/besley-variablefont_wght-webfont.woff2') format('woff2'),
+         url('./font/besley-variablefont_wght-webfont.woff') format('woff'),
+         url('./font/besley-variablefont_wght-webfont.ttf') format('truetype'),
+         url('./font/besley-variablefont_wght-webfont.svg#besleyregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -40,5 +40,3 @@ body {
 </head>
 </body>
 </html>
-
-
