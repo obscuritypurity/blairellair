@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+@font-face {
+    font-family: 'besley';
+    src: url('../font/besley-variablefont_wght-webfont.eot');
+    src: url('../font/besley-variablefont_wght-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/besley-variablefont_wght-webfont.woff2') format('woff2'),
+         url('../font/besley-variablefont_wght-webfont.woff') format('woff'),
+         url('../font/besley-variablefont_wght-webfont.ttf') format('truetype'),
+         url('../font/besley-variablefont_wght-webfont.svg#besleyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+    color: rgb(6, 63, 4);
+    margin-left: 0;
+    font-family: 'besley';
+    background-color: #f8ffd8;
+}
+
+body {
+  margin: 5px;
+  font-family: 'besley';
+  background-image: '../image/background.png';
+  background-color: #f8ffd8;  
+}
+
+</style>
+</head>
+</body>
+</html>
+
+
