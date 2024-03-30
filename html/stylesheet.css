@@ -32,7 +32,6 @@ h1 {
 body {
   margin: 5px;
   font-family: 'besley';
-  background-image: '../image/background.png';
   background-color: #f8ffd8;  
 }
 
@@ -40,3 +39,5 @@ body {
 </head>
 </body>
 </html>
+
+
