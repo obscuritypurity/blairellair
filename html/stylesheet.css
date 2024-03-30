@@ -7,7 +7,7 @@
 <style>
 
 @font-face {
-    font-family: 'besley';
+    font-family: 'besleyregular';
     src: url('./font/besleyfont/besley-variablefont_wght-webfont.eot');
     src: url('./font/besleyfont/besley-variablefont_wght-webfont.eot?#iefix') format('embedded-opentype'),
          url('./font/besleyfont/besley-variablefont_wght-webfont.woff2') format('woff2'),
@@ -25,13 +25,13 @@ a {
 h1 {
     color: rgb(6, 63, 4);
     margin-left: 0;
-    font-family: 'besley';
+    font-family: 'besleyregular';
     background-color: #f8ffd8;
 }
 
 body {
   margin: 5px;
-  font-family: 'besley';
+  font-family: 'besleyregular';
   background-color: #f8ffd8;  
 }
 
