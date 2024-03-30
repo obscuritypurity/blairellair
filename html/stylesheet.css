@@ -27,19 +27,19 @@ a {
 h1 {
     color: rgb(6, 63, 4);
     margin-left: 0;
-    font-family: 'besley', serif;
+    font-family: 'besley', Clarendon, serif;
     background-color: #f8ffd8;
 }
 
 p {
   margin: 5px;
-  font-family: 'besley', serif;
+  font-family: 'besley', Clarendon, serif;
   background-color: #f8ffd8;
 }
 
 body {
   margin: 5px;
-  font-family: 'besley', serif;
+  font-family: 'besley', Clarendon, serif;
   background-color: #f8ffd8;  
 }
 
