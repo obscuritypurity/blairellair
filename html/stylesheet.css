@@ -8,7 +8,8 @@
 
 @font-face {
     font-family: 'besley';
-    src: url('./font/besleyfont/besley-variablefont_wght-webfont.eot');
+    src: local("besley"),
+      url('./font/besleyfont/besley-variablefont_wght-webfont.eot');
     src: url('./font/besleyfont/besley-variablefont_wght-webfont.eot?#iefix') format('embedded-opentype'),
          url('./font/besleyfont/besley-variablefont_wght-webfont.woff2') format('woff2'),
          url('./font/besleyfont/besley-variablefont_wght-webfont.woff') format('woff'),
