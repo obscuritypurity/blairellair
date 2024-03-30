@@ -31,6 +31,12 @@ h1 {
     background-color: #f8ffd8;
 }
 
+p {
+  margin: 5px;
+  font-family: 'besley', serif;
+  background-color: #f8ffd8;
+}
+
 body {
   margin: 5px;
   font-family: 'besley', serif;
