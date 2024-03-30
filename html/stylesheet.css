@@ -10,12 +10,12 @@
 @font-face {
   font-family: 'besley';
   src: local("besley"),
-    url('./font/besleyfont/besley-variablefont_wght-webfont.eot');
-  src: url('./font/besleyfont/besley-variablefont_wght-webfont.eot?#iefix') format('embedded-opentype'),
-       url('./font/besleyfont/besley-variablefont_wght-webfont.woff2') format('woff2'),
-       url('./font/besleyfont/besley-variablefont_wght-webfont.woff') format('woff'),
-       url('./font/besleyfont/besley-variablefont_wght-webfont.ttf') format('truetype'),
-       url('./font/besleyfont/besley-variablefont_wght-webfont.svg#besleyregular') format('svg');
+    url('../font/besleyfont/besley-variablefont_wght-webfont.eot');
+  src: url('../font/besleyfont/besley-variablefont_wght-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../font/besleyfont/besley-variablefont_wght-webfont.woff2') format('woff2'),
+       url('../font/besleyfont/besley-variablefont_wght-webfont.woff') format('woff'),
+       url('../font/besleyfont/besley-variablefont_wght-webfont.ttf') format('truetype'),
+       url('../font/besleyfont/besley-variablefont_wght-webfont.svg#besleyregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -32,7 +32,7 @@ h1 {
 }
 
 p {
-  margin: 0px;
+  margin: 5px;
   font-family: 'besley', serif;
   background-color: #f8ffd8;
 }
