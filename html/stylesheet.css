@@ -4,11 +4,11 @@
 <title>CSS Template</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Besley"
 <style>
 
 @font-face {
-  font-family: 'besley';
+  font-family: 'besleyregular';
   src: local("besley"),
     url('../font/besleyfont/besley-variablefont_wght-webfont.eot');
   src: url('../font/besleyfont/besley-variablefont_wght-webfont.eot?#iefix') format('embedded-opentype'),
@@ -27,19 +27,19 @@ a {
 h1 {
     color: rgb(6, 63, 4);
     margin-left: 0;
-    font-family: 'besley', Clarendon, serif;
+    font-family: 'besleyregular', 'Besley', Clarendon, serif;
     background-color: #f8ffd8;
 }
 
 p {
-  margin: 0px;
-  font-family: 'besley', Clarendon, serif;
+  margin: 5px;
+  font-family: 'besley', 'besleyregular', Clarendon, serif;
   background-color: #f8ffd8;
 }
 
 body {
   margin: 5px;
-  font-family: 'besley', Clarendon, serif;
+  font-family: 'besley', 'besleyregular', Clarendon, serif;
   background-color: #f8ffd8;  
 }
 
