@@ -1,0 +1,58 @@
+Heartline 667=B – fen.
+NEW-incoming
+fen.
+*p-go
+
+—
+Transmission entry date 082403
+&&7
+Translation entry date 082404
+
+Ambassador calling (QUAL:L2-pssL3){}
+CALLING CALLING! ~ Which wave frequency am I on? Hello!
+Using new translation of slang terminology.
+–await feedback wait–
+
+Niner 78%%
+14:44:32
+
+Ambass (QUAL:L1-2){}
+Can I do that? Yes, okay, please give me a moment.
+A bit of your time, thank you.
+~!~
+~!~
+~!~
+~!~
+~!~
+I sent over the materials for the graphics. We can get the setup working shortly but the binary infrastructure may take some time on our side.
+Our coding is not binary-primaried, and we have considerable workarounds towards regenerating of the *88( subtle-software percentages. We expect double entry points in multiple facilities and are working separately to connect the shields at Folkertown.
+
+CLASS-C-CLASS//dial-tone
+
+Ambass (REJOIN-qual3){}
+Tell me of the ranges [trans::sic??] you had pursued in the last transmission. To answer previous questions, yes, we can drink water with small amounts of salt in it but it is not as healthy as freshwater. However, our radiation levels are much more limiting compared to Earth’s.
+One example is the great burst at Vyinhm Mountain in 506 A.E. [[trans. note: : Current “year”: 705 A.E. (fullseason is more acc. translation)]] where pinkrain mixed with natural sediment containing trace amounts of uranium-235. This created a mass airborne virus called Vyinhm disease which wiped much of the surrounding towns.
+Are you, as they say in the media you send, “superhuman”? Can your peoples withstand radiation of uranium-235? We occasionally harness it for energy but only in regions where power from our nearest star is unavailable.
+
+CLASS-C_REDRAW-audio cutout??
+
+??retry
+??retry
+
+FAIL-_Auto // 55-8
+57-Blevel
+{trans. Note: two beeps and a solid waterfall motion}
+{generate noise frequency}
+BLAST
+##
+
+##
+
+R-107 b synde
+Syndication obsolete ||
+ONLINE ||
+47.exe converted ||
+Timestamp: 101 d; 4 m ||
+	ERROR MESS
+	ERROR MESS
+
